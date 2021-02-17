@@ -28,7 +28,8 @@
 
     <ScrollView
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:layout_below="@id/article_subheading">
 
         <TextView
             android:id="@+id/article"
